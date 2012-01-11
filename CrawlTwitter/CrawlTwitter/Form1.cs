@@ -22,6 +22,11 @@ namespace CrawlTwitter
 		private bool stoped = false;
 		private DateTime startTime;
 
+		/// <summary>
+		/// 確認ボタン
+		/// </summary>
+		/// <param name="sender"></param>
+		/// <param name="e"></param>
 		private void button1_Click(object sender, EventArgs e)
 		{
 			screenName = textBox1.Text;
@@ -55,6 +60,11 @@ namespace CrawlTwitter
 			labelTweets.Text = countTweets.ToString();
 		}
 
+		/// <summary>
+		/// 実行ボタン
+		/// </summary>
+		/// <param name="sender"></param>
+		/// <param name="e"></param>
 		private void button2_Click(object sender, EventArgs e)
 		{
 			string js = @"
@@ -101,6 +111,13 @@ for(i=0; i<links.length; i++ ) {
 			button2.Enabled = true;
 			button3.Enabled = false;
 		}
+
+		/// <summary>
+		/// 表示されている自分のツイート数をカウントする
+		/// 非常に遅いので未使用
+		/// </summary>
+		/// <param name="doc"></param>
+		/// <returns></returns>
 		public int getTweetCount(HtmlDocument doc)
 		{
 			int count = 0;
@@ -120,6 +137,11 @@ for(i=0; i<links.length; i++ ) {
 			}
 			return count;
 		}
+		/// <summary>
+		/// 終端をチェックする
+		/// </summary>
+		/// <param name="doc"></param>
+		/// <returns></returns>
 		public bool isAllTweets(HtmlDocument doc )
 		{
 			foreach (HtmlElement el in doc.Links)
@@ -132,6 +154,12 @@ for(i=0; i<links.length; i++ ) {
 			}
 			return false;
 		}
+
+		/// <summary>
+		/// 自分のツイートを取得する
+		/// </summary>
+		/// <param name="doc"></param>
+		/// <returns></returns>
 		public List<Tweet> getTweets( HtmlDocument doc )
 		{
 			List<Tweet> items = new List<Tweet>();
