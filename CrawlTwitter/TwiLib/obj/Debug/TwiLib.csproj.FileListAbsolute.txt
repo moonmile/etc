@@ -1,0 +1,5 @@
+D:\git\etc\CrawlTwitter\TwiLib\bin\Debug\TwiLib.dll
+D:\git\etc\CrawlTwitter\TwiLib\bin\Debug\TwiLib.pdb
+D:\git\etc\CrawlTwitter\TwiLib\obj\Debug\ResolveAssemblyReference.cache
+D:\git\etc\CrawlTwitter\TwiLib\obj\Debug\TwiLib.dll
+D:\git\etc\CrawlTwitter\TwiLib\obj\Debug\TwiLib.pdb

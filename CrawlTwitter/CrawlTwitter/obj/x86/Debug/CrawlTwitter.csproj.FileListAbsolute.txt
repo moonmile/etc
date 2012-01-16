@@ -1,0 +1,9 @@
+D:\git\etc\CrawlTwitter\CrawlTwitter\bin\Debug\CrawlTwitter.exe
+D:\git\etc\CrawlTwitter\CrawlTwitter\bin\Debug\CrawlTwitter.pdb
+D:\git\etc\CrawlTwitter\CrawlTwitter\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\git\etc\CrawlTwitter\CrawlTwitter\obj\x86\Debug\CrawlTwitter.Form1.resources
+D:\git\etc\CrawlTwitter\CrawlTwitter\obj\x86\Debug\CrawlTwitter.Properties.Resources.resources
+D:\git\etc\CrawlTwitter\CrawlTwitter\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\git\etc\CrawlTwitter\CrawlTwitter\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\git\etc\CrawlTwitter\CrawlTwitter\obj\x86\Debug\CrawlTwitter.exe
+D:\git\etc\CrawlTwitter\CrawlTwitter\obj\x86\Debug\CrawlTwitter.pdb

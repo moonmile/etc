@@ -1,0 +1,12 @@
+D:\git\etc\CrawlTwitter\TwiCatchStar\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\git\etc\CrawlTwitter\TwiCatchStar\obj\x86\Debug\TwiCatchStar.Form1.resources
+D:\git\etc\CrawlTwitter\TwiCatchStar\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\git\etc\CrawlTwitter\TwiCatchStar\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\git\etc\CrawlTwitter\TwiCatchStar\bin\Debug\TwiCatchStar.exe
+D:\git\etc\CrawlTwitter\TwiCatchStar\bin\Debug\TwiCatchStar.pdb
+D:\git\etc\CrawlTwitter\TwiCatchStar\bin\Debug\EXDoc.dll
+D:\git\etc\CrawlTwitter\TwiCatchStar\bin\Debug\TwiLib.dll
+D:\git\etc\CrawlTwitter\TwiCatchStar\bin\Debug\EXDoc.pdb
+D:\git\etc\CrawlTwitter\TwiCatchStar\bin\Debug\TwiLib.pdb
+D:\git\etc\CrawlTwitter\TwiCatchStar\obj\x86\Debug\TwiCatchStar.exe
+D:\git\etc\CrawlTwitter\TwiCatchStar\obj\x86\Debug\TwiCatchStar.pdb

@@ -1,0 +1,5 @@
+D:\git\etc\CrawlTwitter\EXDoc\obj\Debug\ResolveAssemblyReference.cache
+D:\git\etc\CrawlTwitter\EXDoc\bin\Debug\EXDoc.dll
+D:\git\etc\CrawlTwitter\EXDoc\bin\Debug\EXDoc.pdb
+D:\git\etc\CrawlTwitter\EXDoc\obj\Debug\EXDoc.dll
+D:\git\etc\CrawlTwitter\EXDoc\obj\Debug\EXDoc.pdb
